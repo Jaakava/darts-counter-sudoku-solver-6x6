@@ -27,7 +27,7 @@ The initial idea was based on a tutorial, but the code was modified and adapted 
 ---
 
 ## Technologies
-- Python 3
+- Python 3.8+
 
 ## How to run
 1. Clone the repository  
